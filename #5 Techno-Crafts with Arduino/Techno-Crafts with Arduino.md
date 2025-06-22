@@ -154,5 +154,6 @@ This code satisfies the following points:
 1. The displayed text changes as the distance changes.
 1. The sound of the buzzer differs depending on the distance.
 
-**Result**
+**Result**  
+
 ![alt text](image.png)
