@@ -18,14 +18,18 @@
 - Verify the trait that if a pill bug turns right, it tends to turn left next
 
 ## 3. Method
-- Use an H-shaped(*fig.1)
+- Use an H-shaped(*fig.1)  
+- Use a 
 - Release a set number of pill bugs and record which direction they turn
 - Note number of bugs passing each route
 
     <*fig1>  
 
     ![alt text](image-1.png)
+ 
+    <*fig2>  
 
+    ![alt text](image.png)
 
 ## 4. Results  
 
